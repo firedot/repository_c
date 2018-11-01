@@ -1,0 +1,3 @@
+[submodule "repository_d"]
+	path = repository_d
+	url = https://github.com/firedot/repository_d.git
